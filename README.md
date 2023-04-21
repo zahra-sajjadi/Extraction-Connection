@@ -1,0 +1,1 @@
+The input of this phase is the output of stage 4 of the pre-processing phase.
